@@ -9,3 +9,4 @@ https://github.com/brechtjeheusschen/assignments/blob/master/Assignment%206%20Br
 
 examen 
 https://github.com/brechtjeheusschen/assignments/blob/master/exam_june_7_2018%20Brechtje%20Heusschen%20beste.ipynb
+https://github.com/brechtjeheusschen/assignments/blob/master/Exam_student%20Brechtje%20Heusschen%20beste.ipynb
